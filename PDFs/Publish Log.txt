@@ -1,0 +1,29 @@
+Publish Started at:     6/28/25  18:01:09
+
+
+Destination Folder or File:
+D:\Documents\_Rig Plans\Bedlam Fringe\PDFs\
+
+
+--------------------------------------------------------------
+DETAILS
+--------------------------------------------------------------
+
+
+ITEM                 FILE FORMAT       RESULT                SOURCE FILE
+----                 -----------       --------------------  -------------
+1-Rig Plan           PDF               (    3.53s)   SUCCESS bedlam-fringe
+2-Rig Plan Other     PDF               (    0.35s)   SUCCESS bedlam-fringe
+
+
+--------------------------------------------------------------
+SUMMARY
+--------------------------------------------------------------
+
+
+Total items sent to Publish:               2
+Total files successfully created:          2
+--------------------------------------------------------------
+Publish Ended at:     6/28/25  18:01:13
+
+
