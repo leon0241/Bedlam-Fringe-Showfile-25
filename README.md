@@ -3,9 +3,9 @@
 
 Link to EOS Show file: [Click Here](https://github.com/leon0241/Bedlam-Fringe-Showfile-25/blob/main/ETC%20EOS/Bedlam%20Fringe%20Blank%20Showfile%20V1.3%202025-07-24%2015-05-52.esf3d)
 
-Link to Rig Plan: [Click Here](https://github.com/leon0241/Bedlam-Fringe-Showfile-25/blob/main/MVR/bedlam-fringe.mvr)
+Link to MVR/Capture Model: [Click Here](https://github.com/leon0241/Bedlam-Fringe-Showfile-25/blob/main/MVR/bedlam-fringe.mvr)
 
-Link to MVR/Capture Model: [Click Here](https://github.com/leon0241/Bedlam-Fringe-Showfile-25/blob/main/PDFs/Bedlam%20Fringe%202025%20Rig%20Plan%20V1.3.pdf)
+Link to Rig Plan: [Click Here](https://github.com/leon0241/Bedlam-Fringe-Showfile-25/blob/main/PDFs/Bedlam%20Fringe%202025%20Rig%20Plan%20V1.3.pdf)
 
 ## How to Import MVR
 From EOS Browser, Import > MVR/Capture Model > [Browse to the file]. Map Devices, keep Overwrite ticked, and press OK.
