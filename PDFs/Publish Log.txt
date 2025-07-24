@@ -27,3 +27,33 @@ Total files successfully created:          2
 Publish Ended at:     6/28/25  18:01:13
 
 
+Publish Started at:     7/21/25  10:11:14
+
+
+Destination Folder or File:
+D:\Documents\_Rig Plans\Bedlam Fringe\PDFs\
+
+
+--------------------------------------------------------------
+DETAILS
+--------------------------------------------------------------
+
+
+ITEM                 FILE FORMAT       RESULT                SOURCE FILE
+----                 -----------       --------------------  -------------
+1-Rig Plan           PDF               (    6.17s)   SUCCESS bedlam-fringe
+2-Rig Plan Other     PDF               (    0.37s)   SUCCESS bedlam-fringe
+6-Cable Plan         PDF               (    0.48s)   SUCCESS bedlam-fringe
+
+
+--------------------------------------------------------------
+SUMMARY
+--------------------------------------------------------------
+
+
+Total items sent to Publish:               3
+Total files successfully created:          3
+--------------------------------------------------------------
+Publish Ended at:     7/21/25  10:11:22
+
+
