@@ -8,7 +8,9 @@ Link to MVR/Capture Model: [Click Here](https://github.com/leon0241/Bedlam-Fring
 Link to Rig Plan: [Click Here](https://github.com/leon0241/Bedlam-Fringe-Showfile-25/blob/main/PDFs/Bedlam%20Fringe%202025%20Rig%20Plan%20V1.3.pdf)
 
 ## How to Import MVR
-From EOS Browser, Import > MVR/Capture Model > [Browse to the file]. Map Devices, keep Overwrite ticked, and press OK.
+From EOS Browser, Import > MVR/Capture Model > [Browse to the file]. Map Devices, keep Overwrite ticked, and press OK. Note: Delete Channels 55 and 56 from the patch after you import, it will create a ghost fixture that is still on the augment3d but the actual fixture data has been moved to channels 71 and 73 (to acccount for the new CS ML spot)
+
+If you have recorded cues with the ignites, then you can copy all the data with Channel X Copy to Channel Y {Plus Show} hotkey.
 
 You will likely need to *Map Devices* for this to work, which is where you link the MVR devices with the EOS Fixture profiles. To use this:
 - Click the MVR Fixture from Source File tab, and find a corresponding EOS Fixture in the browser on the left.
