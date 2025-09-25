@@ -18,6 +18,17 @@ You will likely need to *Map Devices* for this to work, which is where you link 
 - Your new fixture link is now shown on the right
 A list of the DMX Maps are as follows:
 
+## EOS Magic Sheet
+
+<p float="left">
+  <img src="/images/Bedlam Fringe Blank Showfile V1.4 - Magic Sheet 1 - Rig Plan.png" width="33%" />
+  <img src="/images/Bedlam Fringe Blank Showfile V1.4 - Magic Sheet 2 - ML Controls.png" width="33%" /> 
+  <img src="/images/Bedlam Fringe Blank Showfile V1.4 - Magic Sheet 3 - LED Wash.png" width="33%" />
+  <img src="/images/Bedlam Fringe Blank Showfile V1.4 - Magic Sheet 4 - FX Controls.png", width="33%" />
+  <img src="/images/Bedlam Fringe Blank Showfile V1.4 - Magic Sheet 5 - Effects.png", width="33%" />
+  <img src="/images/Bedlam Fringe Blank Showfile V1.4 - Magic Sheet 6 - Prog Utility.png", width="33%" />
+</p>
+
 ------
 | MVR | EOS |
 | - | - |
