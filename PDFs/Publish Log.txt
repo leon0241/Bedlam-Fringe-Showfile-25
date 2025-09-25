@@ -86,3 +86,89 @@ Total files successfully created:          2
 Publish Ended at:     7/24/25  15:07:50
 
 
+Publish Started at:     7/29/25  21:19:34
+
+
+Destination Folder or File:
+D:\Documents\_Rig Plans\Bedlam Fringe\PDFs\
+
+
+--------------------------------------------------------------
+DETAILS
+--------------------------------------------------------------
+
+
+ITEM                 FILE FORMAT       RESULT                SOURCE FILE
+----                 -----------       --------------------  -------------
+1-Rig Plan           PDF               (    3.65s)   SUCCESS bedlam-fringe
+2-Rig Plan Other     PDF               (    0.40s)   SUCCESS bedlam-fringe
+
+
+--------------------------------------------------------------
+SUMMARY
+--------------------------------------------------------------
+
+
+Total items sent to Publish:               2
+Total files successfully created:          2
+--------------------------------------------------------------
+Publish Ended at:     7/29/25  21:19:39
+
+
+Publish Started at:     7/29/25  21:20:27
+
+
+Destination Folder or File:
+D:\Documents\_Rig Plans\Bedlam Fringe\PDFs\
+
+
+--------------------------------------------------------------
+DETAILS
+--------------------------------------------------------------
+
+
+ITEM                 FILE FORMAT       RESULT                SOURCE FILE
+----                 -----------       --------------------  -------------
+1-Rig Plan           PDF               (    0.52s)   SUCCESS bedlam-fringe
+2-Rig Plan Other     PDF               (    0.57s)   SUCCESS bedlam-fringe
+
+
+--------------------------------------------------------------
+SUMMARY
+--------------------------------------------------------------
+
+
+Total items sent to Publish:               2
+Total files successfully created:          2
+--------------------------------------------------------------
+Publish Ended at:     7/29/25  21:20:29
+
+
+Publish Started at:     8/11/25  14:12:08
+
+
+Destination Folder or File:
+D:\Documents\_Rig Plans\Bedlam Fringe\PDFs\
+
+
+--------------------------------------------------------------
+DETAILS
+--------------------------------------------------------------
+
+
+ITEM       FILE FORMAT       RESULT                SOURCE FILE
+----       -----------       --------------------  -------------
+7-Wing     PDF               (    2.52s)   SUCCESS bedlam-fringe
+
+
+--------------------------------------------------------------
+SUMMARY
+--------------------------------------------------------------
+
+
+Total items sent to Publish:               1
+Total files successfully created:          1
+--------------------------------------------------------------
+Publish Ended at:     8/11/25  14:12:11
+
+
